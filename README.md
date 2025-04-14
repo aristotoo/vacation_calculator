@@ -19,8 +19,8 @@
 ## Запуск приложения
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/vacation-calculator.git
-cd vacation-calculator
+git clone https://github.com/aristotoo/vacation_calculator.git
+cd vacation_calculator
 ```
 
 2. Соберите проект:
